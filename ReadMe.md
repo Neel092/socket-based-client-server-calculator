@@ -42,7 +42,7 @@ include/
 ### Compile:
 
 ```
-gcc src/*.c -Iinclude -o app
+gcc src/Core/*.c src/io/*.c src/Network/*.c src/Main.c -Iinclude -o app
 ```
 
 ### Run modes:
@@ -67,7 +67,7 @@ gcc src/*.c -Iinclude -o app
 
 ---
 
-## 🧪 Example Input
+## 🧪 Example Input 
 
 ```
 12+5=
