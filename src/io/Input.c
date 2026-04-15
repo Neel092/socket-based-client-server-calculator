@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Input.h"
-#include "Parser.h"
-#include "Calculator.h"
+#include "io/Input.h"
+#include "Core/Parser.h"
+#include "Core/Calculator.h"
 #include "conio.h"
-#include "Server.h"
-#include "Client.h"
+#include "Network/Server.h"
+#include "Network/Client.h"
 
 void FileInput()
 {

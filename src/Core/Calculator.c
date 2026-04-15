@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Calculator.h"
+#include "Core/Calculator.h"
 
 int calculate(int num1, int num2, char operator, int *result)
 {

@@ -3,8 +3,8 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#include "Server.h"
-#include "Parser.h"
+#include "Network/Server.h"
+#include "Core/Parser.h"
 
 void server()
 {

@@ -1,6 +1,6 @@
 #include <string.h>
-#include "Parser.h"
-#include "Calculator.h"
+#include "Core/Parser.h"
+#include "Core/Calculator.h"
 
 int parse_and_calculate(char str[])
 {

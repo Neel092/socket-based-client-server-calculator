@@ -1,4 +1,4 @@
-#include "Input.h"
+#include "io/Input.h"
 
 int main(int argc, char *argv[])
 {
