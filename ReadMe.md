@@ -1,4 +1,4 @@
-# 🧮 Client-Server Calculator (C)
+# 🧮 ThreadCalc (C)
 
 ## 🚀 Overview
 
